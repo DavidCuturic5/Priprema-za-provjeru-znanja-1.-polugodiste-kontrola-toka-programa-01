@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\obj\Debug\kontrolaTokaPrograma1.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\obj\Debug\kontrolaTokaPrograma1.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\bin\Debug\kontrolaTokaPrograma1.exe.config
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\bin\Debug\kontrolaTokaPrograma1.exe
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\bin\Debug\kontrolaTokaPrograma1.pdb
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\obj\Debug\kontrolaTokaPrograma1.exe
+C:\Users\Gigabyte\source\repos\kontrolaTokaPrograma1\kontrolaTokaPrograma1\obj\Debug\kontrolaTokaPrograma1.pdb
